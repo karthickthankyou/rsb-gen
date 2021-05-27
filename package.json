@@ -1,0 +1,24 @@
+{
+  "name": "rsb-gen",
+  "version": "1.0.0",
+  "description": "Automate react component creation with corresponding storybook component with a simple command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthickthankyou/rsb-gen.git"
+  },
+  "keywords": [
+    "react",
+    "storybook",
+    "karthick"
+  ],
+  "author": "Karthick Ragavendran <hello@iamkarthick.com> (iamkarthick.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthickthankyou/rsb-gen/issues"
+  },
+  "homepage": "https://github.com/karthickthankyou/rsb-gen#readme"
+}
