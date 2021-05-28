@@ -15,6 +15,9 @@
     "storybook",
     "karthick"
   ],
+  "bin": {
+    "rsb-gen": "index.js"
+  },
   "author": "Karthick Ragavendran <hello@iamkarthick.com> (iamkarthick.com)",
   "license": "ISC",
   "bugs": {
